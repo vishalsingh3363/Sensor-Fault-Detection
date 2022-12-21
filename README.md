@@ -42,7 +42,7 @@ Before we run the project, make sure that you are having MongoDB in your local s
 ![cdf2](https://user-images.githubusercontent.com/97364202/208833440-516c7216-cee8-47c3-a58d-39012295b428.png)
 
 
-# Deployment Archietecture
+# Deployment Archietecture.
 
 ![cdf3](https://user-images.githubusercontent.com/97364202/208834019-40a8c364-ce9e-4e78-8641-ed24ff455f78.png)
 
