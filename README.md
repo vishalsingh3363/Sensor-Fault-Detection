@@ -33,6 +33,7 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 # Data Collections
 
+![code flow](https://user-images.githubusercontent.com/97364202/208833054-b7493cf5-3a67-4122-8d00-613246d1f77d.png)
 
 
 
