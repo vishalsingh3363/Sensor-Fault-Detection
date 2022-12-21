@@ -41,6 +41,7 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 # Deployment Archietecture
 
+![cdf3](https://user-images.githubusercontent.com/97364202/208834019-40a8c364-ce9e-4e78-8641-ed24ff455f78.png)
 
 
 Step 1: Clone the repository
