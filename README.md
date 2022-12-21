@@ -35,6 +35,11 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 ![code flow](https://user-images.githubusercontent.com/97364202/208833054-b7493cf5-3a67-4122-8d00-613246d1f77d.png)
 
+# Project Archietecture
+
+![cdf2](https://user-images.githubusercontent.com/97364202/208833440-516c7216-cee8-47c3-a58d-39012295b428.png)
+
+# Deployment Archietecture
 
 
 
