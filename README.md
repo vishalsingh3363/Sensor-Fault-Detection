@@ -111,14 +111,10 @@ docker build --build-arg AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID> --build-arg AWS_S
 docker run -d -p 8080:8080 <IMAGE_NAME>
 ```
 
-<<<<<<< HEAD
 
 
 then run 
 ```
 python main.py
 ```
-=======
-# Then run
-```python main.py```
->>>>>>> d80796d816f2002d3e1b8c634185e2f451c35526
+
